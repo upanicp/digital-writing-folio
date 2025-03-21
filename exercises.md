@@ -1,12 +1,15 @@
 ## Week 3
 **What aspects of the remix are the same?**
 
-For me, the remixes are the same at their basic 5
+For me, the remixes are the same at their basic concepts. I didn't change any of the formatting or functions, I only changed the contents and styles. I know we were told we could come up with a different type of poem for the haiku and everything else, but I was so nervous that if I change anything other than the script as it was given I would break something and it would be ruined, and I wish I did step out of my comfort zone a little more.
 
 **What aspects of the remix are different?**
 
+Like I said, the content and the style. There is no rhyme or reason to what I changed about the style, I just thought about what I like, even if doesn't match the rest of the page, or even the specific piece itself. I was mostly just experimenting here.
 
 **Is the remix successful (why or why not)?**
+
+The remixes are successful in that they are functioning. None of the content that I changed makes up fully realised poems/pieces of literature, but I think there is at least some type of concept/idea/theme there. The error messages are all Magic 8 Ball responses and I though about the idea of blending technology and spirituality. The dropdown menu asks for years and then states what that year will mean – a half-baked exploration of the passage of time and growing up. The text messages are about how something as arbitrary as a text message from Auspost can bring so much joy and emotional attachment. The haiku is different passages from some things I've written before, and I realised that a lot of them have to do with the body and physicality. The Taroko Gorge is roughly about women's labor and how it is overlooked despite its vitality to society.
 
 
 **How do you feel about coding now versus how you felt going into this in Week 1?**
