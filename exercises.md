@@ -36,4 +36,21 @@ For my poetry experimentation, I reworked a piece I wrote last year about mother
 Any day now, I will go crazy thinking about your import to my vitality. I want you to know the you that you thought of as a girl; I want to stay in your ribs until our worlds finish. I don’t long to go back to the familiar, I just start missing you. I think faithfully about the life you had before you birthed your offspring.
 
 
+## Week 5
+**What is emerging for you in terms of your own piece toward Assessment 2 and 3?**
 
+I have two visions in my head right now that I think I can merge into one piece. I'm thinking about playing with the 'dungeon crawler' video game genre, but mostly in the setting/set up of a character having to travel through a dungeon-type setting. I don't think there would be any boss battles or traps or anything you'd find in an actual video game, mostly because I don't have the skill to create those, but also I don't want to take away from the actual story element. I'm interested in the idea of a story that has already happened and a character in the future finding clues to put together to figure out what happened. This is where my second idea comes in. 
+
+I've always been fascinated by the [long-term nuclear waste warning messages](https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages) and I think I might explore it in my piece. Maybe something like a character post-nuclear destruction world coming across a site and then exploring it and they – and the reader with them – finds out what happened. Maybe something about the ever lingering effects of humans on nature, maybe the danger once thought extinguished revealed to be sleeping, maybe the danger is slowly being nudged awake by humans once more.
+
+**What platform and technology does it require?**
+
+I'm interested in Bitsie. I've looked it up and I like the style of it and it suits my vision, but we haven't done any work with it yet, so I don't know if I will like it. If it doesn't seem intuitive to me, then I can work with Twine. I am comfortable with Twine, and know that whatever vision I have can be manipulated so that it can be suited to Twine.
+
+**Do you know already if you can make it?**
+
+Probably! Like I said, it depends on how Bitsie is. If I don't like Bitsie, I might need to do some reimagining so it can work on Twine.
+
+**What else do you need to learn in order to execute your vision for this piece?**
+
+Bitsie, obviously. But if I do end up working on Twine, I will need to learn how to work with images, more specifics about styles and everything, and also transitions/movements/kinetics. I might also have to ask about the processes of working with someone else who will draw some images for me maybe (is it's allowed/how I would credit them)
