@@ -45,7 +45,7 @@ I've always been fascinated by the [long-term nuclear waste warning messages](ht
 
 **What platform and technology does it require?**
 
-I'm interested in Bitsie. I've looked it up and I like the style of it and it suits my vision, but we haven't done any work with it yet, so I don't know if I will like it. If it doesn't seem intuitive to me, then I can work with Twine. I am comfortable with Twine, and know that whatever vision I have can be manipulated so that it can be suited to Twine.
+I'm interested in Bitsie. I've looked it up, and I like the style of I,t and it suits my vision, but we haven't done any work with it yet, so I don't know if I will like it. If it doesn't seem intuitive to me, then I can work with Twine. I am comfortable with Twine and know that whatever vision I have can be manipulated so that it can be suited to Twine.
 
 **Do you know already if you can make it?**
 
@@ -53,4 +53,13 @@ Probably! Like I said, it depends on how Bitsie is. If I don't like Bitsie, I mi
 
 **What else do you need to learn in order to execute your vision for this piece?**
 
-Bitsie, obviously. But if I do end up working on Twine, I will need to learn how to work with images, more specifics about styles and everything, and also transitions/movements/kinetics. I might also have to ask about the processes of working with someone else who will draw some images for me maybe (is it's allowed/how I would credit them)
+Bitsie, obviously. But if I do end up working on Twine, I will need to learn how to work with images, more specifics about styles and everything, and also transitions/movements/kinetics. I might also have to ask about the processes of working with someone else who will draw some images for me maybe (if it's allowed/how I would credit them)
+
+
+## Week 6
+
+**How does this work make you reflect on your own ideas and what you might do for your own piece?**
+
+I'm grateful that we got to see the Bitsie game. It was nice to see the possibilities of what you can do with it, and I want to try playing with it for my piece. But the same also goes for the other pieces and seeing the possibilities of Twine. It raised thoughts of how I can use colour and sound to manipulate the reader's senses and invoke a feeling and emotion in a way that traditional literature can't. I'm interested in the setting and the idea of exploring a location – very similar to House on the Hill, I know – and I have a vision in my head of what my game will look like and seeing the pieces and the different techniques they use to ground the reader in a location has inspired me to consider concrete possibilites of how I can bring my vision to reality. I think I have gone from a vague, foggy idea of some dungeon-crawling-type piece to something more specific. 
+
+I am still nervous, though, that I just won't have the necessary skills to make my piece real. I want to make a game in Bitsie, but I'm not skilled at drawing or anything like that so I don't know if that will affect my ability to create my piece. Of course, I'm just doubting myself, but we still haven't learnt Bitsie yet, so maybe that will go down. Or maybe I'll just have to get over it. 
