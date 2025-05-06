@@ -108,8 +108,10 @@ I've been doing a lot of handwriting so I can't say a definitive word count, but
 
 **what do you need to do on a week-by-week basis (is this realistic?)**
 
-1 – create rooms
+1 – create rooms and finalise script
+
 2 – create sprites and dialogue
+
 3 – final details and music
 
 **what is the tech that might get you stuck? what is the workaround/Plan B?**
