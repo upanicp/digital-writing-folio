@@ -110,11 +110,25 @@ I've been doing a lot of handwriting so I can't say a definitive word count, but
 
 1 – create rooms and finalise script
 
-2 – create sprites and dialogue
+2 – create sprites/items and dialogue
 
 3 – final details and music
 
 **what is the tech that might get you stuck? what is the workaround/Plan B?**
 
 Only issues right now are with streamlining how many tiles I have to end up with. It's just a personal problem, I just don't like it when there's too much things and it's all disorganised. I'm also unsure about the music, and if I can/should make my own music. I've tried experimenting but can't really figure it out. I am looking for tutorials.
+
+## Week 10
+
+**what were your expectations coming into the class and what have you learnt?**
+
+My expectations coming into week one were mainly surrounding coding. I was very nervous about it, worried that I wouldn't be able to pick it up and I'd be totally screwed for the rest of the semester. I knew coding was, like, a whole bunch of languages and I was going in expecting to have to learn them at least at a basic level. I'm really glad that resources such as Twine and Bitsy are as accessible as they are, and I'm really grateful for the communities surrounding these resources that make tutorials and ask and answer questions and make the platforms even more accessible. 
+
+**how has your creative writing practice developed? are there new directions? Or perhaps it has confirmed something about your practice as it was?**
+
+It's opened a whole new avenue for me to create writing projects. A way for me to conve my ideas and stories without the constraints of traditional literature. Part of the reason why I chose digital writing in the first place was because I feel like whenever I'm writing, I'm just dumping my brain onto the page and hoping the reader gets it. I really wanted to experiment with form and see if E-lit can be used to elevate or awaken my writing practice into something new. 
+
+**what particular aspects of code-based writing and E-Lit might inform your practice from here on? Perhaps you will take an aspect of E-Lit into an analogue space? Perhaps you will never go near code ever again!**
+
+I definitely want to experiment with the tech in the future, maybe some Twine, since I'm not using it for my final project, but I'm still really interested in it. E-lit has definitely got me thinking about how I can manipulate and play with linearity, temporality, space, as well as visual elements such as colour, font, images in my writing to evoke certain emotions or reactions in the reader. It's definitely something I will take with me into my future writing, even if it won't be specifically e-Lit. 
 
