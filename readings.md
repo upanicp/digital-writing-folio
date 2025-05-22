@@ -1,4 +1,4 @@
-##Week 1
+## Week 1
 
 **Select one work from each volume that you read and for each write:**
 
@@ -21,7 +21,7 @@ Blackout Poetry Tool – Jazer Chand (volume 4)
 
 The Blackout Poetry Tool is a tool that allows a human and a bot to collaborate to create a piece of blackout poetry. It can only exist in a digital medium, as it is centred on the human/bot dynamic and relationship. The bot follows a pre-set grammar sequence, so that its selections for the blackout poem are grammatically sound. It raises really interesting questions regarding dichotomies – human/technology, emotional/mechanical – and challenges binary thinking. It also challenges notions of ownership/authorship. I also feel like it's particularly relevant in the current day regarding generative AI and the idea of 'computer-generated literature'. This piece was written in 2020, before that stuff even existed, and it's really interesting to see it with this new cultural context. 
 
-##Week 3
+## Week 3
 
 **What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?**
 **How are those elements meaningful?**
@@ -29,13 +29,13 @@ The Blackout Poetry Tool is a tool that allows a human and a bot to collaborate 
 **How is electronic literature different from print literature?**
 **What are the qualities of the works we might consider as qualities of electronic literature?**
 
-##Week 5
+## Week 5
 
 **This week's Required Reading (Aarseth 1997) unpacks some territory that speak directly to some of the great questions raised in your Case Study presnetations such as "in what sense can a hypertext be a narrative? Is hypertext a literary genre or a literary technique?" It introduces the important concept of "ergotics": "hypertext is not a reconfiguration of narrative but offers an alternative to it, as I try to demonstrate through the concept of ergodics." (p.95)**
 
 **What do you think of Aarseth's concept? explain how it offer an alternative to conventional ideas of narrative and the role of reader and writer?**
 
-##Week 6
+## Week 6
 
 How does it work? What does it do? How does the reader interact with the piece? What is conveyed by the digital work?
 How does the digital affordance work with the piece’s themes? Does its function deepen the meaning and interpretation of the themes for you as a reader?
