@@ -5,22 +5,22 @@ For me, the remixes are the same at their basic concepts. I didn't change any of
 
 **What aspects of the remix are different?**
 
-Like I said, the content and the style. There is no rhyme or reason to what I changed about the style, I just thought about what I like, even if doesn't match the rest of the page, or even the specific piece itself. I was mostly just experimenting here.
+Like I said, the content and the style. There is no rhyme or reason to what I changed about the style, I just thought about what I like, even if it doesn't match the rest of the page, or even the specific piece itself. I was mostly just experimenting here.
 
 **Is the remix successful (why or why not)?**
 
-The remixes are successful in that they are functioning. None of the content that I changed makes up fully realised poems/pieces of literature, but I think there is at least some type of concept/idea/theme there. The error messages are all Magic 8 Ball responses and I though about the idea of blending technology and spirituality. The dropdown menu asks for years and then states what that year will mean – a half-baked exploration of the passage of time and growing up. The text messages are about how something as arbitrary as a text message from Auspost can bring so much joy and emotional attachment. The haiku is different passages from some things I've written before, and I realised that a lot of them have to do with the body and physicality. The Taroko Gorge is roughly about women's labor and how it is overlooked despite its vitality to society.
+The remixes are successful in that they are functioning. None of the content that I changed makes up fully realised poems/pieces of literature, but I think there is at least some type of concept/idea/theme there. The error messages are all Magic 8 Ball responses, and I thought about the idea of blending technology and spirituality. The dropdown menu asks for years and then states what that year will mean – a half-baked exploration of the passage of time and growing up. The text messages are about how something as arbitrary as a text message from Auspost can bring so much joy and emotional attachment. The haiku is different passages from some things I've written before, and I realised that a lot of them have to do with the body and physicality. The Taroko Gorge is roughly about women's labor and how it is overlooked despite its vitality to society.
 
 
 **How do you feel about coding now versus how you felt going into this in Week 1?**
 
-I think the main difference in how I feel about code is that now, coding is something real and tangible that I can comprehend in my mind rather than some abstract complex thing. It's like learning a new language, and now I feel like I can say basic greetings and count to, maybe, five. But I feel like now, coding is something that I can actually do, and tackle. It's still a bit scary, because it is learning a new language and it feels like I don't have enough time to become fluent enough to create my own piece of digital writing. I don't think Glitch will be my preferred medium though, and I hope that I will be drawn to one of the other mediums that we will explore in class.
+I think the main difference in how I feel about code is that now, coding is something real and tangible that I can comprehend in my mind, rather than some abstract complex thing. It's like learning a new language, and now I feel like I can say basic greetings and count to, maybe, five. But I feel like now, coding is something that I can actually do and tackle. It's still a bit scary, because it is learning a new language and it feels like I don't have enough time to become fluent enough to create my own piece of digital writing. I don't think Glitch will be my preferred medium, though, and I hope that I will be drawn to one of the other mediums that we will explore in class.
 
 **Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?**
 
 ### Wednesday
 
-For my poetry experimentation, I reworked a piece I wrote last year about motherhood and my relationship with my mum. I do think it was interesting how even when everything is totally changed, I can still feel the essence of what the original piece was about. But maybe that is because I already know the piece. I wonder how it reads to a pair of fresh eyes.
+For my poetry experimentation, I reworked a piece I wrote last year about motherhood and my relationship with my mum. I do think it was interesting how, even when everything is totally changed, I can still feel the essence of what the original piece was about. But maybe that is because I already know the piece. I wonder how it reads to a pair of fresh eyes.
 
 **mesostics**
 
@@ -39,13 +39,13 @@ Any day now, I will go crazy thinking about your import to my vitality. I want y
 ## Week 5
 **What is emerging for you in terms of your own piece toward Assessment 2 and 3?**
 
-I have two visions in my head right now that I think I can merge into one piece. I'm thinking about playing with the 'dungeon crawler' video game genre, but mostly in the setting/set up of a character having to travel through a dungeon-type setting. I don't think there would be any boss battles or traps or anything you'd find in an actual video game, mostly because I don't have the skill to create those, but also I don't want to take away from the actual story element. I'm interested in the idea of a story that has already happened and a character in the future finding clues to put together to figure out what happened. This is where my second idea comes in. 
+I have two visions in my head right now that I think I can merge into one piece. I'm thinking about playing with the 'dungeon crawler' video game genre, but mostly in the setting/set-up of a character having to travel through a dungeon-type setting. I don't think there would be any boss battles or traps or anything you'd find in an actual video game, mostly because I don't have the skill to create those, but also I don't want to take away from the actual story element. I'm interested in the idea of a story that has already happened, and a character in the future finding clues to put together to figure out what happened. This is where my second idea comes in. 
 
-I've always been fascinated by the [long-term nuclear waste warning messages](https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages) and I think I might explore it in my piece. Maybe something like a character post-nuclear destruction world coming across a site and then exploring it and they – and the reader with them – finds out what happened. Maybe something about the ever lingering effects of humans on nature, maybe the danger once thought extinguished revealed to be sleeping, maybe the danger is slowly being nudged awake by humans once more.
+I've always been fascinated by the [long-term nuclear waste warning messages](https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages), and I think I might explore it in my piece. Maybe something like a character post-nuclear destruction world coming across a site and then exploring it and they – and the reader with them – finds out what happened. Maybe something about the ever lingering effects of humans on nature, maybe the danger once thought extinguished revealed to be sleeping, maybe the danger is slowly being nudged awake by humans once more.
 
 **What platform and technology does it require?**
 
-I'm interested in Bitsie. I've looked it up, and I like the style of I,t and it suits my vision, but we haven't done any work with it yet, so I don't know if I will like it. If it doesn't seem intuitive to me, then I can work with Twine. I am comfortable with Twine and know that whatever vision I have can be manipulated so that it can be suited to Twine.
+I'm interested in Bitsie. I've looked it up, and I like the style of It, and it suits my vision, but we haven't done any work with it yet, so I don't know if I will like it. If it doesn't seem intuitive to me, then I can work with Twine. I am comfortable with Twine and know that whatever vision I have can be manipulated so that it can be suited to Twine.
 
 **Do you know already if you can make it?**
 
@@ -53,7 +53,7 @@ Probably! Like I said, it depends on how Bitsie is. If I don't like Bitsie, I mi
 
 **What else do you need to learn in order to execute your vision for this piece?**
 
-Bitsie, obviously. But if I do end up working on Twine, I will need to learn how to work with images, more specifics about styles and everything, and also transitions/movements/kinetics. I might also have to ask about the processes of working with someone else who will draw some images for me maybe (if it's allowed/how I would credit them)
+Bitsie, obviously. But if I do end up working on Twine, I will need to learn how to work with images, more specifics about styles and everything, and also transitions/movements/kinetics. I might also have to ask about the processes of working with someone else who will draw some images for me, maybe (if it's allowed/how I would credit them)
 
 
 ## Week 6
@@ -68,19 +68,19 @@ I am still nervous, though, that I just won't have the necessary skills to make 
 
 **What has been introduced? Summarise your proposed piece**
 
-A journey through someone's subconscious as framed through a journey through a childhood home. The person interacts with things in the house to bring up a story or memory. As the character goes further into the house and the character's mindeset is being disturbed and shifted, the house becomes more surreal and absurd. 
+A journey through someone's subconscious as framed through a journey through a childhood home. The person interacts with things in the house to bring up a story or memory. As the character goes further into the house and the character's mindset is being disturbed and shifted, the house becomes more surreal and absurd. 
 
-**What are the themes and ideas is your piece is exploring?**
+**What are the themes and ideas is your piece exploring?**
 
-In exploring a haunted childhood home I want to explore themes of nostalgia, of a person being haunted by their past, of a place being haunted by their past. There's also the idea of people having 'ghosts' or 'skeletons in the closet' and being stuck in the past, and will resolve in the idea of acceptance and readiness to move on.
+In exploring a haunted childhood home, I want to explore themes of nostalgia, of a person being haunted by their past, of a place being haunted by their past. There's also the idea of people having 'ghosts' or 'skeletons in the closet' and being stuck in the past, and will resolve in the idea of acceptance and readiness to move on.
 
-**What literary genre or style are you drawing on? Is it narrative driven or more poetic and associative? Or essayistic?**
+**What literary genre or style are you drawing on? Is it narrative-driven or more poetic and associative? Or essayistic?**
 
-My piece is one step back from horror, in that it will have tropesof the horror genre but it won't be really that scary. I think the piece will be almost coming-of-age adjacent – a psychological and spiritual exploration of a person coming into adulthood. The nature of Bitsie and the limited space for dialogue will result in the piece being more poetic in nature. There will be a story, or rather, a character arc, but it's not really a narrative. No three-act-structure, more like a slow evollution of a person's soul.
+My piece is one step back from horror, in that it will have tropesof the horror genre but it won't be really that scary. I think the piece will be almost coming-of-age adjacent – a psychological and spiritual exploration of a person coming into adulthood. The nature of Bitsie and the limited space for dialogue will result in the piece being more poetic in nature. There will be a story, or rather, a character arc, but it's not really a narrative. No three-act structure, more like a slow evolution of a person's soul.
 
 **succinctly: What is the story? Or, what do you want to express/communicate through this piece?**
 
-The character starts out as someone who is very afraid – of change, of growing up, of life in general – and journeys through the house to reckon with their past and face their fears to overcome them and become someone who is ready and willing to move on with life.
+The character starts out as someone who is very afraid of change, of growing up, of life in general, and journeys through the house to reckon with their past and face their fears to overcome them and become someone who is ready and willing to move on with life.
 
 **what do you wish there reader to understand of feel?**
 
@@ -88,19 +88,19 @@ I hope to appeal to the early twenties experience of realising that your an adul
 
 **What needs to be developed?**
 
-At this point what I need to work on the most is the actual designs of the house/rooms. I have most of the writing,I just need to create the rooms. I'm not a talented artist so I'm finding it difficult to put my vision onto the screen. I have been looking up drawing tutorials and tutorials about like perspective and everything, so it's actually been a really interesting learning opportunity.
+At this point, what I need to work on the most is the actual designs of the house/rooms. I have most of the writing, I just need to create the rooms. I'm not a talented artist, so I'm finding it difficult to put my vision onto the screen. I have been looking up drawing tutorials and tutorials about like perspective and everything, so it's actually been a really interesting learning opportunity.
 
 **what drives the reader’s momentum through the piece? How does the digital feed into this momentum?**
 
-The readers will be guided through the piece by the different coloured sprites that they can go to an click on to interact with. Sprites will need to be placed in such a way that makes a clear order and direction for the reader to from the entrance of the room, through the sprites, to the exit without confusion and avoids skipping anything. There will also be a sense of mystery – what is the house, who is the character, what has happened/will happen?
+The readers will be guided through the piece by the different coloured sprites that they can go to and click on to interact with. Sprites will need to be placed in such a way that makes a clear order and direction for the reader to follow from the entrance of the room, through the sprites, to the exit without confusion and avoids skipping anything. There will also be a sense of mystery – what is the house, who is the character, what has happened/will happen?
 
 **how does the literary and the digital drive the momentum together with the piece’s thematics?**
 
-Most unique is the visual aspect. Especially the nostalgia associated with 8-bit style of Bitsie, as well as the type of music (that I don't know enough about to give a name to). But there is also a visual display of the character's altering mind, of the depth of their subconcious, of their fears.
+Most unique is the visual aspect. Especially the nostalgia associated with the 8-bit style of Bitsie, as well as the type of music (that I don't know enough about to give a name to). But there is also a visual display of the character's altering mind, of the depth of their subconscious, of their fears.
 
 **how many words will it be?**
 
-I've been doing a lot of handwriting so I can't say a definitive word count, but it'd be around 1000-2000. Not too much, obviously, because of Bitsie's short dialogue boxes.
+I've been doing a lot of handwriting, so I can't say a definitive word count, but it'd be around 1000-2000. Not too much, obviously, because of Bitsie's short dialogue boxes.
 
 **how many screens?**
 
@@ -108,27 +108,37 @@ I've been doing a lot of handwriting so I can't say a definitive word count, but
 
 **what do you need to do on a week-by-week basis (is this realistic?)**
 
-1 – create rooms and finalise script
+1 – create rooms and finalise the script
 
 2 – create sprites/items and dialogue
 
 3 – final details and music
 
-**what is the tech that might get you stuck? what is the workaround/Plan B?**
+**What is the tech that might get you stuck? What is the workaround/Plan B?**
 
-Only issues right now are with streamlining how many tiles I have to end up with. It's just a personal problem, I just don't like it when there's too much things and it's all disorganised. I'm also unsure about the music, and if I can/should make my own music. I've tried experimenting but can't really figure it out. I am looking for tutorials.
+Only issues right now are with streamlining how many tiles I have to end up with. It's just a personal problem, I just don't like it when there's too much things and it's all disorganised. I'm also unsure about the music, and if I can/should make my own music. I've tried experimenting, but can't really figure it out. I am looking for tutorials.
+
+## Week 9
+
+**Update your folio with a summary and reflection on the feedback you recieved and dot points for next steps with planned dates for doing it.**
+
+N/A – Absent
+
+I workshopped with a personal writing group, and they gave me some handy feedback. I think the general consesus was that the whole 'house coming alive' concept might just be too hard to achieve, and I think my specific vision has complex animation that I doubt Bitsy can do. Maybe if I worked really hard, but then the focus would stray from the story to the animation. So the house will be slightly less haunted. I think it will be more like the person's parents 'souls' possessing certain parts of the house. So it will be like the parents are talking to them through the house. 
+
+I also realised how difficult the music process is. I have no negative music knowledge at all, and I don't know if I'll be able to design music to a level that won't bring the quality down. I'm considering the possibility of just having no music. I'm weighing up between having sounds for different interactions, or just making the game silent altogether. 
 
 ## Week 10
 
-**what were your expectations coming into the class and what have you learnt?**
+**What were your expectations coming into the class, and what have you learnt?**
 
-My expectations coming into week one were mainly surrounding coding. I was very nervous about it, worried that I wouldn't be able to pick it up and I'd be totally screwed for the rest of the semester. I knew coding was, like, a whole bunch of languages and I was going in expecting to have to learn them at least at a basic level. I'm really glad that resources such as Twine and Bitsy are as accessible as they are, and I'm really grateful for the communities surrounding these resources that make tutorials and ask and answer questions and make the platforms even more accessible. 
+My expectations coming into week one were mainly surrounding coding. I was very nervous about it, worried that I wouldn't be able to pick it up and I'd be totally screwed for the rest of the semester. I knew coding was, like, a whole bunch of languages, and I was going in expecting to have to learn them at least at a basic level. I'm really glad that resources such as Twine and Bitsy are as accessible as they are, and I'm really grateful for the communities surrounding these resources that make tutorials and ask and answer questions and make the platforms even more accessible. 
 
-**how has your creative writing practice developed? are there new directions? Or perhaps it has confirmed something about your practice as it was?**
+**How has your creative writing practice developed? Are there new directions? Or perhaps it has confirmed something about your practice as it was?**
 
-It's opened a whole new avenue for me to create writing projects. A way for me to conve my ideas and stories without the constraints of traditional literature. Part of the reason why I chose digital writing in the first place was because I feel like whenever I'm writing, I'm just dumping my brain onto the page and hoping the reader gets it. I really wanted to experiment with form and see if E-lit can be used to elevate or awaken my writing practice into something new. 
+It's opened a whole new avenue for me to create writing projects. A way for me to convey my ideas and stories without the constraints of traditional literature. Part of the reason why I chose digital writing in the first place was because I feel like whenever I'm writing, I'm just dumping my brain onto the page and hoping the reader gets it. I really wanted to experiment with form and see if E-lit can be used to elevate or awaken my writing practice into something new. 
 
-**what particular aspects of code-based writing and E-Lit might inform your practice from here on? Perhaps you will take an aspect of E-Lit into an analogue space? Perhaps you will never go near code ever again!**
+**What particular aspects of code-based writing and E-Lit might inform your practice from here on? Perhaps you will take an aspect of E-Lit into an analogue space? Perhaps you will never go near code ever again!**
 
-I definitely want to experiment with the tech in the future, maybe some Twine, since I'm not using it for my final project, but I'm still really interested in it. E-lit has definitely got me thinking about how I can manipulate and play with linearity, temporality, space, as well as visual elements such as colour, font, images in my writing to evoke certain emotions or reactions in the reader. It's definitely something I will take with me into my future writing, even if it won't be specifically e-Lit. 
+I definitely want to experiment with the tech in the future, maybe some Twine, since I'm not using it for my final project, but I'm still really interested in it. E-lit has definitely got me thinking about how I can manipulate and play with linearity, temporality, space, as well as visual elements such as colour, font, and images in my writing to evoke certain emotions or reactions in the reader. It's definitely something I will take with me into my future writing, even if it won't be specifically e-Lit. 
 
