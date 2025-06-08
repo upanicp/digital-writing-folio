@@ -126,7 +126,9 @@ N/A – Absent
 
 I workshopped with a personal writing group, and they gave me some handy feedback. I think the general consesus was that the whole 'house coming alive' concept might just be too hard to achieve, and I think my specific vision has complex animation that I doubt Bitsy can do. Maybe if I worked really hard, but then the focus would stray from the story to the animation. So the house will be slightly less haunted. I think it will be more like the person's parents 'souls' possessing certain parts of the house. So it will be like the parents are talking to them through the house. 
 
-I also realised how difficult the music process is. I have no negative music knowledge at all, and I don't know if I'll be able to design music to a level that won't bring the quality down. I'm considering the possibility of just having no music. I'm weighing up between having sounds for different interactions, or just making the game silent altogether. 
+I also realised how difficult the music process is. I have no negative music knowledge at all, and I don't know if I'll be able to design music to a level that won't bring the quality down. I've even tried basing the music off of existing songs, but I just can't get it to work; everything I create sounds terrible and annoying and makes the gameplay miserable. I'm considering the possibility of just having no music. I'm also weighing up between having sounds for different interactions, or just making the game silent altogether. 
+
+I think, with the fiddling that I have done with the blips, it's very difficult to create sounds that properly fit the tone of my piece. The '8-bit' sound (what is the proper term here?) are just usually more higher and brighter and bring up much happier nostalgic emotions, and don't really fit in with the moody tone of my piece. If I were to include them, it would be very jarring and take away from the piece in terms of ambience. The blip creation mechanism is limited to 'editing' pre-generated blips, so it's very difficult to create the specific sounds that I want to suit the themes of my game. As of yet, I have not found any work-arounds for this.
 
 ## Week 10
 
